@@ -1,3 +1,11 @@
+Lesson 51 useful links:
+create-react-app: https://github.com/facebookincubator/create-react-app
+Introducing JSX: https://reactjs.org/docs/introducing-jsx.html
+Rendering Elements: https://reactjs.org/docs/rendering-elements.html
+Components & Props: https://reactjs.org/docs/components-and-props.html
+Listenable Events: https://reactjs.org/docs/events.html
+
+////////////////////////
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
